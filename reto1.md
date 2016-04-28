@@ -19,11 +19,11 @@ for var i = 0; i <= 100; i++ {
         print("\(i) Bingo!!!")
     }
     if i % 2 == 0 {
-        print("\(i) Par")
+        print("\(i) Par!!!")
 
     }
     if i % 2 == 1 {
-        print("\(i) Impar")
+        print("\(i) Impar!!!")
 
     }
     if i >= 30 && i <= 40 {
